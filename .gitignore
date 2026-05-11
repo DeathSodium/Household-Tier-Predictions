@@ -1,0 +1,37 @@
+# Datasets and Data files
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.h5
+*.npy
+*.npz
+Dataset/
+data/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output directories
+submissions/
+*.sub
+models/
+*.joblib
+
+# Jupyter / IDEs
+.ipynb_checkpoints
+.vscode/
+.idea/
+
+# Local logs
+*.log
